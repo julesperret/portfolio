@@ -1,0 +1,20 @@
+ul{
+    justify-content: flex-end;
+}
+ul li{
+    display: inline;
+    padding: 10px;
+}
+
+h1, h2, .desc{
+    text-align: center;
+}
+
+.violet{
+    background-color: blueviolet;
+    height: 40vh;
+}
+.blanc{
+    background-color:white;
+    height: 40vh;
+}
